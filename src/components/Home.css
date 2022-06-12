@@ -1,0 +1,17 @@
+.home{
+    display:flex;
+    padding-top: 1000px;
+    justify-content: space-between;
+    height:200px;
+    width:1200px;
+    margin-left:10%;
+    margin-top: 900px;
+
+}
+.lastSection{
+    border: 1px rgba(187, 179, 179, 0.936);
+    color:rgba(246, 238, 238, 0.936)
+    
+    
+}
+
